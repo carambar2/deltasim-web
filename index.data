@@ -1,0 +1,157 @@
+{
+  "id": "flowery",
+  "name": "FLOWERY",
+  "subtitle": "The castle's dancing gardener.",
+  "chapter": 5,
+  "order": 2,
+  "module": "flowery",
+  "music": "Flowerman_Arrangement.ogg",
+  "party": [
+    1,
+    2,
+    3
+  ],
+  "note": "Chapter 5 castle fight. Raise MERCY with the ACTs of each phase, dash with the orange SOUL, then follow Susie's idea."
+}
+{
+  "id": "gerson",
+  "name": "HAMMER OF JUSTICE",
+  "subtitle": "The old hero's secret trial.",
+  "chapter": 4,
+  "order": 1,
+  "module": "gerson",
+  "music": "ch4_extra_boss.ogg",
+  "party": [
+    2
+  ],
+  "note": "Chapter 4 secret boss: Susie alone, green soul and shield."
+}{ "id": "jevil", "name": "JEVIL", "subtitle": "Chaos, chaos!", "chapter": 1, "order": 2, "module": "jevil", "music": "joker.ogg", "party": [1, 2, 3], "note": "Secret boss of the Card Castle prison." }
+{
+  "id": "king",
+  "name": "KING",
+  "subtitle": "The King of Spades.",
+  "chapter": 1,
+  "order": 1,
+  "module": "king",
+  "music": "kingboss.ogg",
+  "party": [
+    1,
+    2,
+    3
+  ],
+  "note": "Chapter 1 final boss."
+}{
+  "id": "pink",
+  "name": "PINK",
+  "subtitle": "A Lightner ghost in a magical girl's body.",
+  "chapter": 5,
+  "order": 1,
+  "module": "pink",
+  "music": "pink.ogg",
+  "party": [
+    1,
+    2,
+    3
+  ],
+  "note": "Invincible. Flirt to fill the DOKI meter, then win the dates."
+}
+{
+  "id": "queen",
+  "name": "QUEEN",
+  "subtitle": "Her Majesty.",
+  "chapter": 2,
+  "order": 1,
+  "module": "queen",
+  "music": "queen_boss.ogg",
+  "party": [
+    1,
+    2,
+    3
+  ],
+  "note": "Chapter 2 final boss. Loosen or cut Berdly's wires, or Toast to drain her acid shield."
+}
+{
+  "id": "roaring_knight",
+  "name": "ROARING KNIGHT",
+  "subtitle": "The Roaring Knight",
+  "chapter": 3,
+  "order": 3,
+  "module": "roaring_knight",
+  "music": "knight.ogg",
+  "party": [
+    1,
+    2,
+    3
+  ],
+  "note": "Chapter 3 secret boss (flag 1047 / UraBoss). Survive the Roaring, then land one hit. The first attempt ends in a scripted defeat."
+}
+{
+  "id": "shadow_mantle",
+  "name": "ERAM",
+  "subtitle": "Wielder of the SHADOW MANTLE",
+  "chapter": 3,
+  "order": 1,
+  "module": "shadow_mantle",
+  "music": "nightmare_boss_heavy.ogg",
+  "party": [
+    1
+  ],
+  "note": "Sword-route board fight: Kris alone with the sword, 12 HP. Arrows move, Z swings. Each defeat makes the next retry easier (candy drops, softer dashes)."
+}
+{
+  "id": "spamton_neo",
+  "name": "SPAMTON NEO",
+  "subtitle": "NOW'S YOUR CHANCE TO BE A [[BIG SHOT]]",
+  "chapter": 2,
+  "order": 2,
+  "module": "spamton_neo",
+  "music": "spamton_neo_mix_ex_wip.ogg",
+  "party": [
+    1,
+    2,
+    3
+  ],
+  "note": "Secret boss, normal route: snap 100% of the wires (Snap/SnapAll) or deplete his HP. Yellow soul: tap to shoot, hold to charge a BIG SHOT."
+}
+{
+  "id": "spamton_neo_weird",
+  "name": "SPAMTON NEO",
+  "subtitle": "Weird Route",
+  "chapter": 2,
+  "order": 3,
+  "module": "spamton_neo_weird",
+  "music": "spamton_neo_mix_ex_wip.ogg",
+  "party": [
+    1
+  ],
+  "note": "Weird Route: Kris alone (assumed 20 level-ups: 160 HP, AT 14). No mercy; bring him to 10% HP, then call for help five times."
+}
+{
+  "id": "tenna",
+  "name": "TENNA",
+  "subtitle": "Mr. (Ant) Tenna",
+  "chapter": 3,
+  "order": 2,
+  "module": "tenna",
+  "music": "tenna_battle.ogg",
+  "party": [
+    1,
+    2,
+    3
+  ],
+  "note": "\"1000 points or bust\": earn SCORE with ACTs, grazes and minigames. Reach 1000 points or drop Tenna to 20% HP to start the FINAL EPISODE."
+}{
+  "id": "titan",
+  "name": "TITAN",
+  "subtitle": "The fear of dark, which appears in many forms.",
+  "chapter": 4,
+  "order": 2,
+  "module": "titan",
+  "music": "titan_battle.ogg",
+  "party": [
+    1,
+    2,
+    3
+  ],
+  "note": "Chapter 4 final boss. Purify darkness with your SOUL's light to gather TP, UNLEASH to expose the weak point. Ends when Susie's idea is used."
+}
